@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chwon betty 3-new_owner
+sudo chwon betty hello
